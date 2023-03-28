@@ -2,6 +2,25 @@
 Estruturas de Controle do JavaScript
 */
 
+//Estrutura If...Else
+//Atalho: ifelse + tab
+if (condition) {
+    
+} else {
+    
+}
+
+//Vários if em conjunto
+if (condition) {
+    
+}else if (condition) {
+    
+}else if (condition) {
+    
+}else{
+    
+}
+
 //Estrutura For
 //Atalho: for + tab
 for (let index = 0; index < array.length; index++) {
